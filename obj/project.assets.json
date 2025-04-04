@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Task_Count\\Task_Count.csproj",
+      "projectUniqueName": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\TestWork1-3\\Count\\Task_Count.csproj",
       "projectName": "Task_Count",
-      "projectPath": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Task_Count\\Task_Count.csproj",
+      "projectPath": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\TestWork1-3\\Count\\Task_Count.csproj",
       "packagesPath": "C:\\Users\\kek13\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Task_Count\\obj\\",
+      "outputPath": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\TestWork1-3\\Count\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\kek13\\AppData\\Roaming\\NuGet\\NuGet.Config",
